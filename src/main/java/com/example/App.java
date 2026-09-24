@@ -9,5 +9,6 @@ public class App {
         System.out.println("id: " + task.getId());
         System.out.println("title: " + task.getTitle());
         System.out.println("Completed: " + task.isCompleted());
+        System.out.println("New feature added by developer 2");
     }
 }
