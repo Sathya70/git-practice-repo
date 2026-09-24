@@ -7,7 +7,7 @@ public class App {
         System.out.println("java task manager");
         System.out.println("-------------");
         System.out.println("id: " + task.getId());
-        System.out.println("task: " + task.getTitle());
+        System.out.println("Title: " + task.getTitle());
         System.out.println("Completed: " + task.isCompleted());
     }
 }
